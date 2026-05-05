@@ -3,3 +3,6 @@ just an easy demo
 test
 
 test-2
+
+## use github flow
+- create a new branch
